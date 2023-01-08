@@ -15,7 +15,20 @@ Smooth working
 Value validations 
 
 # Technology Used
-PHP
-AJAX
-Bootstrap
-jQuery
+PHP<br>
+AJAX <br>
+Bootstrap <br>
+jQuery <br>
+Installation
+This is the complete source code for the contact form in PHP and AJAX.
+First of all, get <a href="https://technosmarter.com/item/contact-form-in-php-and-ajax-source-code"> contact form in PHP</a> from here . You can watch demo in demo section. Get contact form and download zip file .
+Extract zip file and move on your server . You can execute it on your local server or live server.
+Import database from the database folder . You can find database folder .
+Edit config.php file and set your host , database name , username and password .
+Execute the code . You can contact for any help and support .
+This is complete source code for contact form with captcha validation in PHP.
+ # Developer
+<a href="https://technosmarter.com/">Techno Smarter</a>
+# Contact form in PHP and AJAX | Source Code
+<a href="https://technosmarter.com/item/contact-form-in-php-and-ajax-source-code">Contact form in PHP and AJAX | Source Code</a>
+
