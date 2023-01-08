@@ -22,7 +22,7 @@ AJAX <br>
 Bootstrap <br>
 jQuery <br>
 # Installation
-This is the complete source code for the contact form in PHP and AJAX.
+This is the complete source code for the contact form in PHP and AJAX.<br>
 1.First of all, get <a href="https://technosmarter.com/item/contact-form-in-php-and-ajax-source-code"> contact form in PHP</a> from here .<br>
 2. You can watch demo in demo section. Get contact form and download zip file .<br>
 3. Extract zip file and move on your server . You can execute it on your local server or live server.<br>
